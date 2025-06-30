@@ -1,0 +1,1829 @@
+{
+  "filters": [
+    {
+      "name": "Venue type",
+      "type": "multi",
+      "categories": [
+        {
+          "id": "Za5W0xIAACUA25q6",
+          "name": "Gym"
+        },
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "name": "Studio"
+        },
+        {
+          "id": "ZrNePREAACEAGIDV",
+          "name": "Recovery"
+        },
+        {
+          "id": "ZCUvSRQAABB9SoKL",
+          "name": "Padel"
+        },
+        {
+          "id": "YzWQIxEAANURkaEn",
+          "name": "Tennis"
+        },
+        {
+          "id": "YzWQQBEAAAECkaG5",
+          "name": "Squash"
+        }
+      ]
+    },
+    {
+      "name": "Gym facilities",
+      "type": "multi",
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "name": "Mixed gym facilities"
+        },
+        {
+          "id": "Y-yM5xAAAB0Algo4",
+          "name": "Ladies-only gym facilities"
+        },
+        {
+          "id": "Y1JqWREAAEolEr-v",
+          "name": "Lap pool"
+        },
+        {
+          "id": "Za5X4xIAACMA25yA",
+          "name": "Cold plunge pool"
+        },
+        {
+          "id": "ZCUttBQAAB3ySoAc",
+          "name": "Sauna"
+        },
+        {
+          "id": "ZCUtzRQAANdrSoBE",
+          "name": "Steam room"
+        }
+      ]
+    },
+    {
+      "name": "Class access",
+      "type": "multi",
+      "categories": [
+        {
+          "id": "ZCUuaRQAAOAiSoEq",
+          "name": "Unlimited free classes"
+        },
+        {
+          "id": "ZDZbtBQAAHnPc9S8",
+          "name": "3 free classes per week"
+        },
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "name": "2 free classes per week"
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "name": "1 free class per week"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "section": "fitness",
+      "name": "121 Studio ",
+      "city": "Abu Dhabi",
+      "type": "gym",
+      "coordinates": {
+        "lat": 24.478535149478514,
+        "lng": 54.353469384531444
+      },
+      "location": "Janana Tower",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1FSe5bqstJ98DhC_121_Studio_01.png?auto=format,compress",
+          "blur_hash": "LUB|,OS5t7oyI7o$RjWA9IjYofoz"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1FSfZbqstJ98DhD_121_Studio_02.png?auto=format,compress",
+          "blur_hash": "LBChhB3O$Js:3v}1R+NsnKI;Ef$E"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1FSf5bqstJ98DhE_121_Studio_03.png?auto=format,compress",
+          "blur_hash": "LVB3guIqbKtAD|xVocW9o$R*ogfS"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "category": "2 free classes per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": false,
+      "specialNotice": "If you were, or currently are a direct member of 121 Studio, holding an annual membership, there is a six month waiting period before you can access the studio using Privilee",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Located in Al Khalidiyah, 121 Studio is an immersive fitness destination. Designed to energise and inspire, this studio combines high-energy group workouts with pumping music, strobe lighting, and sleek interiors to keep your motivation soaring.",
+          "spans": [],
+          "direction": "ltr"
+        },
+        {
+          "type": "paragraph",
+          "text": "Privilee Members can enjoy two complimentary classes per week. With classes like Circuit Training, Strength and Conditioning, and Bootcamp on the schedule, 121 Studio offers a dynamic mix of workouts led by an expert team of coaches who are there to push your limits.\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "2 free classes per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "24 Fitness",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.14841186652168,
+        "lng": 55.23665070533753
+      },
+      "location": "Al Quoz",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/277d4c93-c61b-4c09-b152-d01b1c36d899_24fitness_1.png?auto=compress,format",
+          "blur_hash": "LTB|vnV[IU%#8woztRIAW?WAaet7"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/d69c055e-dec4-406d-8435-1b7b919b38a9_24fitness_2.png?auto=compress,format",
+          "blur_hash": "L87eq^n3ROMwa0McR,jY8wxtu5xa"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/5fefc0e0-7925-4787-bc47-b4ae6946ee95_3AF43A66-019E-4EFE-8CB7-4C8CC0F8D638.PNG?auto=compress,format",
+          "blur_hash": "LOECa=tSt8jY4mM_M{f5o#xut7of"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Za5W0xIAACUA25q6",
+          "category": "Gym",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of 24 Fitness, there is a six-month waiting period before you can access the gym using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "24 Fitness is a huge training ground, located in Al Quoz, offering a variety of world-class fitness facilities. Train using specialist equipment such as bodybuilding weights and various squat machines, in dedicated areas throughout the gym, including a cardio area, functional training zone, and even a boxing ring! ",
+          "spans": [],
+          "direction": "ltr"
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access"
+        },
+        {
+          "title": "Gym"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "321 Sports ",
+      "city": "Abu Dhabi",
+      "type": "gym",
+      "coordinates": {
+        "lat": 24.417415564054227,
+        "lng": 54.33129251003266
+      },
+      "location": "Hudayriyat Mar Vista",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/cc282231-ab8e-4645-9ec2-6ff893e5f839_321_gym_4.jpg?auto=compress,format",
+          "blur_hash": "LsH2ZbbHM|og~qayWUofxuWBjZaz"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/c012131c-3757-4f81-9d07-02b4ee02f0ba_321_gym.jpg?auto=compress,format",
+          "blur_hash": "L9GRr18w%NMx.SM{xvE1#6-nD%sl"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/c0bc744a-79c5-4d49-b99d-22202620f367_321_gym_1.jpg?auto=compress,format",
+          "blur_hash": "L8G8Q29E9}0gTzRO%1=w@=pJIUIq"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUuaRQAAOAiSoEq",
+          "category": "Unlimited free classes",
+          "title": "Free access",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Y1JqWREAAEolEr-v",
+          "category": "Lap pool",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Located on Hudayriyat Island, 321 Sports is an action-packed sports village. Enjoy free access to the state-of-the-art gym plus an array of discounted sports activities at this exciting new fitness hub",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access"
+        },
+        {
+          "title": "Unlimited free classes",
+          "badge": "Free access"
+        },
+        {
+          "title": "Lap pool"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "700 Padel & Fitness Hub",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.109332058081478,
+        "lng": 55.221393732562
+      },
+      "location": "Al Barsha 2",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/faae6402-d8ae-4911-9807-59522fbe820e_IMG_4364.png?auto=compress,format",
+          "blur_hash": "L76[5sRODzyFD|R*t8VqD#s=aca~"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/d01cf0c5-eaf7-4a5b-9e72-86f0f6f9cd8c_IMG_4388.png?auto=compress,format",
+          "blur_hash": "L6B:su4m%M-=-=4mRjD%D%NIWCWA"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/f1954c4d-d039-4e8b-91f2-cf9f10a6327c_IMG_4391.png?auto=compress,format",
+          "blur_hash": "L7B:pl~X_3%M4.xtM{IU%3-;Rk9F"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "category": "2 free classes per week",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Conquer your fitness goals in two complimentary fitness classes per week at 700 Padel & Fitness Hub. Discover a dynamic selection of 18 class types spanning across four innovative studios. Whether it's the adrenaline-pumping beats of boxing, the vibrations of a sound bath meditation, or the energetic intensity of HIIT, there's a class for every mood and fitness level.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": []
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "2 free classes per week"
+        },
+        {
+          "title": "Studio"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "AB Fitness",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.259862629447465,
+        "lng": 55.271015167236335
+      },
+      "location": "Dubai Maritime City",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/f74eb50f-9646-4435-a43e-110463f4c70f_ABFitness1.jpg?auto=compress,format",
+          "blur_hash": "LFE3VL-p02ocNDRj-;bHVsRjITWB"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/61e207fb-880c-4a53-bd65-a762803b4619_ABFitness3.jpg?auto=compress,format",
+          "blur_hash": "LDDJ^xO]N2xu}im%NFRn%ix_ROxU"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/2decf337-91dc-47bd-89e8-aa9df0238811_ABFitness2.jpg?auto=compress,format",
+          "blur_hash": "LTA2c18^xbNF-MIUxsR.s8W?XAjF"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym and two fitness classes, per week",
+              "spans": []
+            }
+          ],
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "category": "2 free classes per week",
+          "title": "Free access",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Y1JqWREAAEolEr-v",
+          "category": "Lap pool",
+          "title": "25m lap pool",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Za5W0xIAACUA25q6",
+          "category": "Gym",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of AB Fitness, there is a six-month waiting period before you can access AB Fitness using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "AB Fitness is a huge 50,000 sq. ft. gym located in Mina Rashid. The impressive gym boasts lots of natural light and scenic views for you to enjoy as you work out. Plus, there is a wide variety of Technogym machines and equipment, alongside a 120-metre indoor running track and 25-metre outdoor swimming pool!",
+          "spans": [],
+          "direction": "ltr"
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym and two fitness classes, per week",
+                "spans": []
+              }
+            ]
+          ]
+        },
+        {
+          "title": "2 free classes per week",
+          "badge": "Free access"
+        },
+        {
+          "title": "Lap pool",
+          "badge": "25m lap pool"
+        },
+        {
+          "title": "Gym"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "BARE Fitness Dubai ",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.188579582376196,
+        "lng": 55.269527273153535
+      },
+      "location": "Business Bay",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z6H_Y5bqstJ9-NHG_01_BAREFitness_studio.jpg?auto=format,compress",
+          "blur_hash": "LD6*%|VnRLbxx6axbLkGD^Renwok"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z6H_aZbqstJ9-NHJ_02_BAREFitness_studio.jpg?auto=format,compress",
+          "blur_hash": "Ln6k[Zt9oHkEi=axjvf4R=WVkDog"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z6H_bJbqstJ9-NHK_03_BAREFitness_studio.jpg?auto=format,compress",
+          "blur_hash": "LE6HybM[a%V=VntBf4fmIujpoeof"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of BARE Fitness Dubai, holding a monthly membership for at least six months or an annual membership, there is a six month waiting period before you can access the studio using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Focused on delivering rapid and tangible fitness results through high-intensity training, BARE Fitness Dubai is the place to hit your goals. Located in Clover Bay Tower, Business Bay, Members can join one complimentary class per week.\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "1 free class per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "CHALK Training Ground",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.11254057952687,
+        "lng": 55.13971362353617
+      },
+      "location": "New Golden Mile 3, Palm Jumeirah",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZqHzAB5LeNNTxera_Chalk-15.png?auto=format,compress",
+          "blur_hash": "LICr_?RkE2jY^jWCRjay0$tSxtR*"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZqHzGx5LeNNTxero_Chalk-36.png?auto=format,compress",
+          "blur_hash": "LZFiSq?bx[x[~V%Mjst7M{WpWBay"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZqHzBh5LeNNTxerd_Chalk-20.png?auto=format,compress",
+          "blur_hash": "L8BWe^.TOF#*}+x^-poz4n9GoJ%L"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Take your training routine to the next level and jump into a high-energy atmosphere designed to push your limits. Privilee Members get complimentary access to one fitness class per week at this innovative space including CrossFit and HYROX. Come for the high energy classes, stay for the supportive community.",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "1 free class per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "DoubleTree Fitness Center",
+      "city": "Ras Al Khaimah",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.66959194406989,
+        "lng": 55.74387788772584
+      },
+      "location": "DoubleTree by Hilton Resort & Spa Marjan Island",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/1f20c0c9-d446-4911-b9bb-89bcbef56117_Doubletree+by+Hilton+Al+Marjan_spa%26gym_01.jpg?auto=compress,format",
+          "blur_hash": "LOJ7%BIuE1xtafWXM{Rk~8$~s+jY"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Energy Plus Gym Abu Dhabi   ",
+      "city": "Abu Dhabi",
+      "type": "gym",
+      "coordinates": {
+        "lat": 24.404482069440856,
+        "lng": 54.54962044338615
+      },
+      "location": "Al Forsan",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZrXtc0aF0TcGI0ZJ_EnergyPlus_01.jpg?auto=format,compress",
+          "blur_hash": "LJEL?EjFxan%0zR5x]t7H?x]M{WC"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZrXteEaF0TcGI0ZM_EnergyPlus_03.jpg?auto=format,compress",
+          "blur_hash": "LJFr9O,VIUM{%f9ajtWB0LNxXSt7"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZrXtdkaF0TcGI0ZK_EnergyPlus_02.jpg?auto=format,compress",
+          "blur_hash": "LABCx.}[bcRj5,F0xasoL~v$t6o}"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5W0xIAACUA25q6",
+          "category": "Gym",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Y1JqWREAAEolEr-v",
+          "category": "Lap pool",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "Please note, if you were, or currently are, a direct member of Energy Plus, there is a six-month waiting period before you can access the gym using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Elevate your fitness and spice up your training routine at this stunning gym located in Al Forsan, Abu Dhabi. Freestyle your workouts with open gym access or join a complimentary fitness class each week led by professionals. The gym boasts an outdoor lap pool, ladies-only training area, and an outdoor space. Whatever your fitness goals, you’ve got access to the best-in-class equipment and high-energy atmosphere to exceed them.\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Gym"
+        },
+        {
+          "title": "Lap pool"
+        },
+        {
+          "title": "1 free class per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "F45 Training Al Maryah Island",
+      "city": "Abu Dhabi",
+      "type": "gym",
+      "coordinates": {
+        "lat": 24.50616511882695,
+        "lng": 54.388023828835486
+      },
+      "location": "Al Maryah Island",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z6HbaJbqstJ9-Mqf_F45AlMaryah_02.png?auto=format,compress",
+          "blur_hash": "LYIOt#.7%La#~NV@tSk959WYW9WC"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z6HbZpbqstJ9-Mqe_F45AlMaryah_01.png?auto=format,compress",
+          "blur_hash": "LbI5Vt9FE1j[%MV@fkWB00bcofj]"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z6HbbJbqstJ9-Mqg_F45AlMaryah_03.png?auto=format,compress",
+          "blur_hash": "LiI#u;NF%MtR~paxt7t74.V@ozV["
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of F45 Training, holding an annual membership, there is a six month waiting period before you can access the studio using Privilee",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Reimagining functional group fitness classes, F45 Training is a global phenomenon. Located in Abu Dhabi, this Al Maryah Island studio welcomes all fitness levels, offering 45-minute, high-energy circuit workouts that change daily to keep you challenged and motivated. Privilee Members can join one complimentary class per week. From cardio and strength to resistance training and HYROX-inspired sessions, there’s something for everyone.\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "1 free class per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "GIGAFIT",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.150391837860273,
+        "lng": 55.23041155914617
+      },
+      "location": "Al Quoz",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/f3729cb8-2ce4-4063-aca1-39d6db977c5b_GIGAfit-21.png?auto=compress,format",
+          "blur_hash": "L68qc^R#Dj%20dNFwgM|Di-qMyM{"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/7c80a165-f72b-452c-95e3-924514fcd0ef_GIGAfit-01.png?auto=compress,format",
+          "blur_hash": "L471l[ofDOt700t7W:RjaKj[tRj@"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/01d4e79f-5c8d-416c-97e8-116775938e1c_GIGAfit-12.png?auto=compress,format",
+          "blur_hash": "L46RP;ox4nV@D%WBxuof00s;%Moy"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym and 2 fitness classes per week\nOnce GIGAFIT’s class schedule launches!",
+              "spans": [
+                {
+                  "start": 60,
+                  "end": 99,
+                  "type": "em"
+                }
+              ]
+            }
+          ],
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of GIGAFIT, there is a six-month waiting period before you can access GIGAFIT using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "GIGAFIT, the internationally renowned gym from France, has recently opened its doors on 6th St - Al Quoz, Dubai! ",
+          "spans": [],
+          "direction": "ltr"
+        },
+        {
+          "type": "paragraph",
+          "text": "Test your limits and reach your fitness goals at this premium facility. With a wide range of offerings, including strength training, cardio, boxing, and functional fitness, you'll have all the resources necessary to elevate your workouts to new heights.",
+          "spans": [],
+          "direction": "ltr"
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym and 2 fitness classes per week\nOnce GIGAFIT’s class schedule launches!",
+                "spans": [
+                  {
+                    "start": 60,
+                    "end": 99,
+                    "type": "em"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Habtoor Grand Fitness Center",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.085997286971136,
+        "lng": 55.141196250915534
+      },
+      "location": "Jumeirah Beach Residence",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ec47f55162ec1533bb5016adb0e24ef7935574ff_privilee_habtoor-grand_02.05.2018-10-of-19.jpg?auto=compress,format",
+          "blur_hash": "LKFjQV-?ivt6~ooJtQM|9HIpR-t6"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/a83abec3db1d2293fbde7b15a63b213b347964a1_habtoor-grand-gym-03.jpg?auto=compress,format",
+          "blur_hash": "LWJu+JMy%gIo~U%KROjbIpRkR*t7"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/21976f1a2da71c61f26c05ca8cc877a98685f742_habtoor-grand-gym-.jpg?auto=compress,format",
+          "blur_hash": "LRGv|qD,N2I[?TbW$_oePEtSIpoc"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym",
+              "spans": []
+            }
+          ],
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym",
+                "spans": []
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "In The Pink ",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.11387342919495,
+        "lng": 55.24629462883503
+      },
+      "location": "Dubai Hills",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z9kuwziBA97GilL4_01_InthePink_Studio.jpg?auto=format,compress",
+          "blur_hash": "LcLDlkaeNdj[0LjZofaym+oes:az"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z9kuxjiBA97GilL8_02_InthePink_Studio.jpg?auto=format,compress",
+          "blur_hash": "LfKAmMofRjWA4TWBs:jt%2bHs:of"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z9ku0jiBA97GilL__03_InthePink_Studio.jpg?auto=format,compress",
+          "blur_hash": "LGKTiM?c^+D%wG%2t7j]u%xaE2%M"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently a direct member of In The Pink , holding a minimum of 6 months membership, there is a six month waiting period before you can access the studio using Privilee",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "A place to feel the burn, find your flow, and fuel your self-care journey in Dubai Hills. This chic, ladies-only wellness hub has everything you need for a seamless workout experience, leaving you feeling your best every time. With Instagrammable details at every turn and dedicated recovery spaces, enjoy Mat Pilates, Yoga, Stretching, and more, plus 10% off at the dog-friendly café!\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "1 free class per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "JW Marriott Hotel Marina Fitness Centre",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.07716409757331,
+        "lng": 55.14053001388691
+      },
+      "location": "JW Marriott Hotel Marina",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZofPNx5LeNNTw0R1_JWMarriott_FitnessCentre.png?auto=format,compress",
+          "blur_hash": "LNI4|iibo~ROlVt6xZxW^itRRkxZ"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/760c202b5157e26303ae1acf94e3e70adc869c41_untitled-3.jpg?auto=compress,format",
+          "blur_hash": "LIL|6{ERR3%Myqt6ozV@{uM|%NM|"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Elevate your fitness journey with iconic views of Dubai Marina at the JW Marriott Hotel Marina Fitness Centre.",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Karma Yoga",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.07539715568455,
+        "lng": 55.139825371130705
+      },
+      "location": "Dubai Marina",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z3vIR5bqstJ99Emx_KarmaYoga_Venue01.jpg?auto=format,compress",
+          "blur_hash": "LBB:4-9$xYI@gPxtobR,0#nhjYs,"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z3u36ZbqstJ99Ea-_KarmaYoga_Venue02.jpg?auto=format,compress",
+          "blur_hash": "LVK1wENbs:M{_N-;IURjx]ogkCs:"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z3z_KJbqstJ99G85_KarmaYoga_Venue03.jpg?auto=format,compress",
+          "blur_hash": "LWLDf7caIVI9~VT1IoIT9bt7kDj]"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "category": "2 free classes per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Step into Karma Yoga in Marina Plaza, Dubai Marina. This is where traditional yoga practices meet stunning Marina views—a peaceful spot to stretch, breathe, and unwind.",
+          "spans": [],
+          "direction": "ltr"
+        },
+        {
+          "type": "paragraph",
+          "text": "Privilee Members can join two classes a week, with two spacious studios dedicated to mindful movement and connection. Experience classes like Vinyasa Flow, Yin Yoga, Yoga Stretch, Sound Healing Meditation, Hatha Flow, and more. If you’re looking for a moment to slow down and reset, Karma Yoga is your new go-to.",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "2 free classes per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Level Up Gyms",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.03568484182242,
+        "lng": 55.18542649854357
+      },
+      "location": "Dubai Production City",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZzxhJK8jQArT1BKn_LevelUp_Prismic_02.png?auto=format,compress",
+          "blur_hash": "LFBq0iiHt2x]MHozjXaxJ:ITWGo3"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZzxhJq8jQArT1BKo_LevelUp_Prismic_03.png?auto=format,compress",
+          "blur_hash": "L99@x4pbRiV?DNx]bcjYTfoMRPWU"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZzxhIq8jQArT1BKm_LevelUp_Prismic_01.png?auto=format,compress",
+          "blur_hash": "L79*0[.lM_iw#ie9x]tR0Or|xuX4"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5W0xIAACUA25q6",
+          "category": "Gym",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "category": "2 free classes per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of Level Up Gyms, there is a six month waiting period before you can access the gym using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Elevate your fitness game at Level Up Gyms with Privilee. Enjoy complimentary access to the cutting-edge open gym, two high-energy fitness classes each week, and two padel games every month. Whether you're into CrossFit, martial arts, HYROX training, or relaxing wellness sessions like Hot Yoga and Sound Healing, Level Up offers something for every workout style.\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Gym"
+        },
+        {
+          "title": "2 free classes per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "METROFITT",
+      "city": "Abu Dhabi",
+      "type": "gym",
+      "coordinates": {
+        "lat": 24.311687779916973,
+        "lng": 54.6215648312421
+      },
+      "location": "Bawabat Al Sharq Mall",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z_TsJXdAxsiBwbtc_MetroFit_01.png?auto=format,compress",
+          "blur_hash": "LOECXqMxM{V?~VIUWDaeD%NGo}fj"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z_TsKHdAxsiBwbte_MetroFit_02.png?auto=format,compress",
+          "blur_hash": "LRDlc+ES$%acrUV=nhkD0ix]S5Ri"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z_TsL3dAxsiBwbtj_MetroFit_03.png?auto=format,compress",
+          "blur_hash": "LFDJCi%g%MkBzmjZj]S5NzoIIpM{"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of METROFITT holding an annual membership, there is a six month waiting period before you can access the studio using Privilee",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "METROFITT is a male-only gym built for results. Open 24/7 with premium equipment and expert trainers, Privilee Members enjoy open gym access and a variety of classes, including Les Mills Body Combat, Boot Camp, HIIT, and more! Build strength, stability, and power here.\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities"
+        },
+        {
+          "title": "Studio"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "NRG Fitness",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.085151921479873,
+        "lng": 55.14856159687043
+      },
+      "location": "Dubai Marina",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZqjA2R5LeNNTxlyE_NRG_900x900_11.png?auto=format,compress",
+          "blur_hash": "LJF5~X}psnI=0MENXmNIIuM}s.%0"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZqjAxx5LeNNTxlx2_NRG_900x900_03.png?auto=format,compress",
+          "blur_hash": "LDHBS,m~Nuf5.A-*4ns=E.o@9Fs,"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZqjA3x5LeNNTxlyJ_NRG_900x900_14.png?auto=format,compress",
+          "blur_hash": "LNHx+c0LmoDk.P9aifr^IpWXahRk"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "title": "Free access to 1 fitness class, per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of NRG Fitness, there is a six-month waiting period before you can access the gym using Privilee",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "NRG Fitness is an award-winning boutique fitness studio located in Dubai Marina. Enjoy one complimentary class per week, with a variety of fun and challenging options to choose from!",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "1 free class per week",
+          "badge": "Free access to 1 fitness class, per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Optimal Fitness",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.042856764951786,
+        "lng": 55.25160670280457
+      },
+      "location": "Studio City",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/d6bb3366-cbad-4354-861c-689b8ae11cd2_Optimal_gym1.jpg?auto=compress,format",
+          "blur_hash": "LeL}BDxvxuog4mt8t7xu?coLRjof"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/7bfa7c8a-6c98-477e-8d87-f2fcfe8837db_Optimal_gym2.jpg?auto=compress,format",
+          "blur_hash": "LEJ*u68^xu4nM|$+M|IA4nt6NFxu"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/d366f9b3-7d1f-4219-a967-cfbd26c23f3f_Optimal_gym3.jpg?auto=compress,format",
+          "blur_hash": "LJF~gZD*~qD%^,IU-;D%0JjERjRj"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym",
+              "spans": []
+            }
+          ],
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "For those who may be living or working in Studio City or neighbouring areas such as Arabian Ranches, this is the perfect gym for you! Optimal Fitness is a boutique-style holistic health and fitness centre with excellent equipment and facilities, PLUS it’s super easy to get to with free parking. \n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym",
+                "spans": []
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Palace Downtown Fitness Centre",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.193901510959105,
+        "lng": 55.27571686882045
+      },
+      "location": "Downtown",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1qCL5bqstJ98Xzx_Palace_Downtown_Gym_01.png?auto=format,compress",
+          "blur_hash": "LUHUUcxt0gNGo~NH$~s,,-sSW=WX"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1qCMpbqstJ98Xzy_Palace_Downtown_Gym_02.png?auto=format,compress",
+          "blur_hash": "LnKm,=NyNIt6yDxat6WX~Bt7Rkof"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1qCM5bqstJ98Xzz_Palace_Downtown_Gym_03.png?auto=format,compress",
+          "blur_hash": "LRDS:i?utQkq_MXTNbWq^iw]RjRQ"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym",
+              "spans": []
+            }
+          ],
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym",
+                "spans": []
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Qudrah Fitness",
+      "city": "Sharjah",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.39306645671295,
+        "lng": 55.418930155804276
+      },
+      "location": "Al Rifaah, Al Heerah Suburb",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Zj2nbEMTzAJOCrMD_Qudrah_INTERNALVIEW_950x633_06.png?auto=format,compress",
+          "blur_hash": "LTGIr?_NM{M{D$IUoft79FMxRjbH"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Zj2nfUMTzAJOCrML_Qudrah_INTERNALVIEW_950x633_18.png?auto=format,compress",
+          "blur_hash": "LLFPHK_4t7Dj4n9FM{ozxaofbHae"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Zj2nekMTzAJOCrMJ_Qudrah_INTERNALVIEW_950x633_13.png?auto=format,compress",
+          "blur_hash": "LGC?fd9ZxuD*~VRkj[WB4nxuWBxu"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Workout at a top-rated fitness studio in Sharjah. Qudrah Fitness is a premium space specialising in functional training, from HIIT and HYROX Training to Bodybuilding.",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "1 free class per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "RAISE Fitness & Wellness ",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.052158675471933,
+        "lng": 55.16290605068207
+      },
+      "location": "Jumeirah Islands",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z9z5BDiBA97GiwAU_RaiseFitness_01.png?auto=format,compress",
+          "blur_hash": "LSFrnZWB%ee.~TRjM|WXxtxtjEay"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z9z5BziBA97GiwAV_RaiseFitness_02.png?auto=format,compress",
+          "blur_hash": "LGG9Ke4m-SIqACIpbwRPDP8{s=xu"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z9z5CziBA97GiwAW_RaiseFitness_03.png?auto=format,compress",
+          "blur_hash": "LRL3#=TztRRkyDrqWBf6{v9GNcog"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym",
+              "spans": []
+            }
+          ],
+          "showOnVenuePage": false
+        },
+        {
+          "id": "Za5W0xIAACUA25q6",
+          "category": "Gym",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Located in the heart of Jumeirah Islands, RAISE Fitness and Wellness boasts the latest Technogym equipment and its very own outdoor CrossFit training area. ",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym",
+                "spans": []
+              }
+            ]
+          ]
+        },
+        {
+          "title": "Gym"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "SK Fitness",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.033440770385287,
+        "lng": 55.189671314782416
+      },
+      "location": "Dubai Production City",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZwTfw4F3NbkBW_zj_SK_Fitness-37.jpg?auto=format,compress",
+          "blur_hash": "LADA0]ES?vjX_No~-;j=-CE3RQof"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZwTfvIF3NbkBW_zc_SK_Fitness-08.jpg?auto=format,compress",
+          "blur_hash": "LVFPNZ_3ofs:~px]j]t6oyM|WCt7"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZwTfvoF3NbkBW_zd_SK_Fitness-11.jpg?auto=format,compress",
+          "blur_hash": "LHF6h1%$?aE1-;SixuR+4TIUtRtR"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "category": "2 free classes per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of SK Fitness, there is a six month waiting period before you can access the studio using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Elevate your fitness with high-energy CrossFit classes, skill-focused gymnastics sessions, and strength training to build lean muscle. SK Fitness in Dubai Production City is your go-to gym with expert coaches and top-tier equipment to support every workout.",
+          "spans": [],
+          "direction": "ltr"
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "2 free classes per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "TKMMAFIT",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.089592454297843,
+        "lng": 55.15283703804017
+      },
+      "location": "Dubai Media City",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/d0144f02-3e71-4e08-949d-46dc306ed1a7_TKMMA_Privilee-10.jpg?auto=compress,format&rect=47,83,825,550&w=950&h=633",
+          "blur_hash": "LLEL]R4TnhRk.mITRjjFv}S2j]W;"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/b7858e11-cc9c-43fc-b401-60f02e15aade_TKMMA_Privilee-32.jpg?auto=compress,format&rect=1,44,884,589&w=950&h=633",
+          "blur_hash": "LoFPsij]tPoe%jR+oJayS~RkaKay"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/1cc1553c-c608-42e3-a239-67910810e97d_TKMMA_Privilee-09.jpg?auto=compress,format&rect=30,27,909,606&w=950&h=633",
+          "blur_hash": "L9AwI|aPozV@SuIUM{of01NEWBxu"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym, and 1 fitness class per week ",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ],
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "title": "Free access to 1 fitness class, per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of TKMMAFIT, holding minimum of 6 month membership, there is a six month waiting period before you can access the studio using Privilee",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "With separate sections for combat and martial arts, cross-training and conditioning, and a fully functional fitness gym, TKMMAFIT has it all. You'll be working out in style with groundbreaking amenities that will make you feel like a true champion. So, whether you're a seasoned MMA fighter or a fitness enthusiast looking for a challenge, this is the place for you. ",
+          "spans": []
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym, and 1 fitness class per week ",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          ]
+        },
+        {
+          "title": "1 free class per week",
+          "badge": "Free access to 1 fitness class, per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "UFC GYM, Ajman City Center",
+      "city": "Ajman",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.398443739571555,
+        "lng": 55.478872996092825
+      },
+      "location": "Ajman City Centre Mall, Al Jurf",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZuKegBoQrfVKmAPC_UFC_SV-ajman.jpg?auto=format,compress",
+          "blur_hash": "LyMqq[I;NaR*3Cs9sAV@v$soj@WB"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZuKefRoQrfVKmAPB_UFC_ajmanjpg.jpg?auto=format,compress",
+          "blur_hash": "LjKAB1Povgbb~CpIrrX89twIS~ay"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/ZuKecBoQrfVKmAO6_UFC_ajman-6.jpg?auto=format,compress",
+          "blur_hash": "LFL.Yy8b=yX-[^T0EMk;3VxuwJRj"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5W0xIAACUA25q6",
+          "category": "Gym",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUuiBQAABB9SoFe",
+          "category": "2 free classes per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "specialNotice": "If you were, or currently are a direct member of UFC GYM, there is a six-month waiting period before you can access the gym using Privilee.",
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "UFC GYM is a globally recognised mixed martial arts gym known for its unique training experiences and top-tier fitness equipment. Enjoy complimentary gym access and two classes per week. Test your fitness skills with specialised classes, from Brazilian Jiu-Jitsu to Barbell Conditioning and Power Pilates.",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Gym"
+        },
+        {
+          "title": "2 free classes per week"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "V Gym ",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.18468994360559,
+        "lng": 55.25502920150757
+      },
+      "location": "Al Habtoor City",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/71f6d625-328a-434c-a900-0f525cd501a7_V-Gym_950x633.jpg?auto=compress,format",
+          "blur_hash": "LKH_oKj^4qxo~QNKtUj=xTWEohk9"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym",
+              "spans": []
+            }
+          ],
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Fuel your fitness goals at this stylish gym, where you can enjoy a challenging workout with panoramic city views.",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym",
+                "spans": []
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Waldorf Astoria Gym",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.13482423186224,
+        "lng": 55.151163339614875
+      },
+      "location": "The Palm",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/b7aafdf4dd278d7b263fa8f286263d003cf6896c_waldorf-astoria-gym-02.jpg?auto=compress,format",
+          "blur_hash": "LOLMIc}nE#xuC+Ek$fS5]hs:X7WU"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/3ce7d2588169ebea17d8da0a11976718a241ca85_waldorf-astoria-gym-01.jpg?auto=compress,format",
+          "blur_hash": "LcKmqY?aF4%0*JXUrrbH=soLRPjZ"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/6de827ec0978195fd054becc0984c5b778b17bd7_waldorf-gym-04.jpg?auto=compress,format",
+          "blur_hash": "LOKv$[GHOaNHLg$+jGWB]#OXM|WF"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Y-yNHBAAAB4Algsl",
+          "category": "Mixed gym facilities",
+          "title": "Free access to mixed gym facilities",
+          "detail": [
+            {
+              "type": "list-item",
+              "text": "Free access to the mixed gym",
+              "spans": []
+            }
+          ],
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [],
+      "thingsToDo": [
+        {
+          "title": "Mixed gym facilities",
+          "badge": "Free access to mixed gym facilities",
+          "content": [
+            [
+              {
+                "type": "list-item",
+                "text": "Free access to the mixed gym",
+                "spans": []
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "YOFIT Hot Studios, DIFC",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.208196743924283,
+        "lng": 55.27699542975195
+      },
+      "location": "DIFC",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1a-WJbqstJ98N3B_YOFIT_Hot_Studios_DIFC_01.png?auto=format,compress",
+          "blur_hash": "LEHBrF8{t4NG0NE1t7n,_0WUofkB"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1a-W5bqstJ98N3D_YOFIT_Hot_Studios_DIFC_02.png?auto=format,compress",
+          "blur_hash": "LMHeLAJ5t7af0M-ot6WU4nItjZW;"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/Z1a-XJbqstJ98N3E_YOFIT_Hot_Studios_DIFC_03.png?auto=format,compress",
+          "blur_hash": "LKHLJ2O[JCt80MnNMxNGM{nOV@X8"
+        }
+      ],
+      "categories": [],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "YOFIT Hot Studios in DIFC and The Greens offers dynamic hot Yoga, Pilates, Strength, and Core classes in heated rooms set to 35–40°C. Enjoy one complimentary class per week at both locations.\n",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ]
+    },
+    {
+      "section": "fitness",
+      "name": "Zen Yoga, Jumeirah Park Pavilion",
+      "city": "Dubai",
+      "type": "gym",
+      "coordinates": {
+        "lat": 25.039019717344015,
+        "lng": 55.16580220211261
+      },
+      "location": "Jumeirah Park East Pavilion",
+      "images": [
+        {
+          "url": "https://privilee-media.imgix.net/privilee/79bf1ee3-e6e9-4063-b93d-c483b8cd6a1e_Zen_Yoga_Jumeirah_Park_01.jpg?auto=compress,format",
+          "blur_hash": "LSKwtRI:NMI=L4R5%1%1?uI[IpNH"
+        },
+        {
+          "url": "https://privilee-media.imgix.net/privilee/a291ba83-39f3-4c0b-a75c-a77a4994cf03_Zen_Yoga_Jumeirah_Park_02.jpg?auto=compress,format",
+          "blur_hash": "LXKKvPITNGIA~qROo#WBadtRWBt7"
+        }
+      ],
+      "categories": [
+        {
+          "id": "Za5WuRIAACMA25qP",
+          "category": "Studio",
+          "showOnVenuePage": false
+        },
+        {
+          "id": "ZCUupRQAANdrSoGN",
+          "category": "1 free class per week",
+          "title": "1 free classes per week",
+          "showOnVenuePage": false
+        }
+      ],
+      "openingHours": {},
+      "accessibleForGuestPass": true,
+      "overviewText": [
+        {
+          "type": "paragraph",
+          "text": "Immerse yourself in a peaceful ambience in this bright and spacious studio on the first floor of Jumeirah Park East Pavilion! Offering a variety of yoga styles and mat Pilates, Zen Yoga has options for everyone. Flow, stretch, and strengthen your body!",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": []
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio"
+        },
+        {
+          "title": "1 free class per week",
+          "badge": "1 free classes per week"
+        }
+      ]
+    }
+  ],
+  "cities": [
+    "Dubai",
+    "Abu Dhabi",
+    "Sharjah",
+    "Ras Al Khaimah",
+    "Fujairah",
+    "Ajman"
+  ]
+}
