@@ -28,10 +28,11 @@ A feature-rich Flutter application showcasing venues (hotels and gyms) with adva
 
 ### Shared Components (`lib/shared/`)
 -  Custom Widgets
+-  Loading Animations
 -  Image Loading with Blur Hash
+
    <img src="screenshots/blurhash1.jpg" alt="BlurHash List" width="300" />
    <img src="screenshots/blurhash2.jpg" alt="BlurHash Detail" width="300" />
--  Loading Animations
 
 ## Features
 
@@ -104,6 +105,7 @@ A feature-rich Flutter application showcasing venues (hotels and gyms) with adva
 -  shimmer: Loading Effects
 
 ##  Screenshots are located in the `screenshots/` directory.
+
 <img src="screenshots/screen1.png" alt="Venue List" width="300" />
 <img src="screenshots/screen4.png" alt="Venue Detail" width="300" />
 <img src="screenshots/screen2.png" alt="Filter Options" width="300" />
